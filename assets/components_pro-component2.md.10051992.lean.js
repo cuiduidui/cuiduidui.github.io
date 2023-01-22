@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./app.014ebedc.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"components/pro-component2.md","lastUpdated":1674379371000}'),n={name:"components/pro-component2.md"};function a(r,p,c,s,m,d){return o(),t("div")}const f=e(n,[["render",a]]);export{i as __pageData,f as default};
